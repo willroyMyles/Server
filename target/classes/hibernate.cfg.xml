@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!--<property name="show_sql">true</property>-->
+        <property name="format_sql">true</property>
+        <!--&lt;!&ndash;<property name="dialect">org.hibernate.dialect.SQLiteDialect</property>&ndash;&gt;-->
+        <property name="dialect">com.enigmabridge.hibernate.dialect.SQLiteDialect</property>
+        <property name="connection.driver_class">org.sqlite.JDBC</property>
+        <property name="connection.url">jdbc:sqlite:Farm.sqlite</property>
+        <property name="connection.username"></property>
+        <property name="connection.password"></property>
+
+        <property name="hibernate.hbm2ddl.auto">update</property>
+
+
+        <!-- <property name="connection.username"/> -->
+        <!-- <property name="connection.password"/> -->
+
+        <!-- DB schema will be updated if needed -->
+        <!-- <property name="hbm2ddl.auto">update</property> -->
+        <!--<mapping resource="maps/Farmer.hbm.xml"/>-->
+
+        <mapping class="kart.Kart" />
+        <mapping class="users.Farmer" />
+        <mapping class="users.Customer" />
+        <mapping class="crops.Crop" />
+    </session-factory>
+</hibernate-configuration>

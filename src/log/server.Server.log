@@ -1,0 +1,322 @@
+2018-03-17 11:53:57,293 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 12:00:47,806 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 13:17:01,578 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 13:17:31,696 ERROR server.ServerCore [Thread-2] users.Person; local class incompatible: stream classdesc serialVersionUID = 2583461578608561641, local class serialVersionUID = -8541362787701510235
+2018-03-17 13:17:31,699 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-17 13:22:30,792 ERROR server.ServerCore [Thread-3] users.Person; local class incompatible: stream classdesc serialVersionUID = 8773025700347030707, local class serialVersionUID = -8541362787701510235
+2018-03-17 13:22:30,794 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-17 13:24:20,295 ERROR server.ServerCore [Thread-1] users.Farmer; local class incompatible: stream classdesc serialVersionUID = -3595615540309370415, local class serialVersionUID = -3710832190748612397
+2018-03-17 13:24:20,296 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 13:26:03,904 ERROR server.ServerCore [Thread-1] null
+2018-03-17 13:26:03,905 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 13:59:07,885 ERROR server.ServerCore [Thread-1] users.Person; local class incompatible: stream classdesc serialVersionUID = -8541362787701510235, local class serialVersionUID = 512891534570457040
+2018-03-17 13:59:07,886 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 14:00:52,604 ERROR server.ServerCore [Thread-2] users.Farmer; local class incompatible: stream classdesc serialVersionUID = -3710832190748612397, local class serialVersionUID = -735920286891507692
+2018-03-17 14:00:52,606 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-17 14:03:35,377 ERROR server.ServerCore [Thread-3] null
+2018-03-17 14:03:35,377 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-17 15:28:52,421 ERROR server.ServerCore [Thread-1] null
+2018-03-17 15:28:52,428 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 15:33:34,214 ERROR server.ServerCore [Thread-1] null
+2018-03-17 15:33:34,216 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 15:42:30,366 ERROR server.ServerCore [Thread-1] null
+2018-03-17 15:42:30,367 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 16:21:27,732 ERROR server.ServerCore [Thread-1] null
+2018-03-17 16:21:27,734 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 16:34:18,710 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 16:37:07,686 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 19:38:20,891 ERROR server.ServerCore [Thread-1] null
+2018-03-17 19:38:20,908 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 19:40:13,215 ERROR server.ServerCore [Thread-1] null
+2018-03-17 19:40:13,216 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 19:41:45,920 ERROR server.ServerCore [Thread-1] null
+2018-03-17 19:41:45,922 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 20:28:26,609 ERROR server.ServerCore [Thread-1] users.Person; local class incompatible: stream classdesc serialVersionUID = 512891534570457040, local class serialVersionUID = 909086018065272416
+2018-03-17 20:28:26,631 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 20:31:07,913 ERROR server.ServerCore [Thread-1] users.Farmer; local class incompatible: stream classdesc serialVersionUID = -735920286891507692, local class serialVersionUID = -3710832190748612397
+2018-03-17 20:31:07,914 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 20:39:43,931 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-17 20:41:32,989 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-18 00:53:46,932 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-18 01:55:54,687 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-18 12:01:34,799 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-19 02:43:29,982 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-19 02:46:36,805 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-19 02:47:24,824 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-19 02:48:04,238 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-19 02:53:16,583 INFO server.ServerCore [Thread-5] Client Disconnected
+2018-03-19 02:56:38,956 INFO server.ServerCore [Thread-6] Client Disconnected
+2018-03-19 02:58:53,135 INFO server.ServerCore [Thread-7] Client Disconnected
+2018-03-19 02:59:35,636 INFO server.ServerCore [Thread-8] Client Disconnected
+2018-03-19 03:06:40,002 INFO server.ServerCore [Thread-9] Client Disconnected
+2018-03-19 03:09:08,439 INFO server.ServerCore [Thread-10] Client Disconnected
+2018-03-19 03:15:30,497 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-19 03:32:32,001 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-19 03:34:39,305 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-19 03:36:19,156 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-19 03:38:50,575 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-19 12:40:05,244 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-19 12:40:08,743 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-21 21:16:54,588 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-21 21:26:13,081 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-21 21:28:05,206 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-21 21:30:19,859 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-21 21:32:12,286 INFO server.ServerCore [Thread-5] Client Disconnected
+2018-03-21 21:34:38,479 INFO server.ServerCore [Thread-6] Client Disconnected
+2018-03-21 21:35:28,621 INFO server.ServerCore [Thread-7] Client Disconnected
+2018-03-21 21:45:04,288 INFO server.ServerCore [Thread-8] Client Disconnected
+2018-03-21 21:48:48,217 INFO server.ServerCore [Thread-9] Client Disconnected
+2018-03-21 21:51:31,891 INFO server.ServerCore [Thread-10] Client Disconnected
+2018-03-21 21:52:12,109 ERROR server.ServerCore [Thread-11] users.Farmer cannot be cast to java.lang.String
+2018-03-21 21:52:12,111 INFO server.ServerCore [Thread-11] Client Disconnected
+2018-03-21 21:54:48,691 INFO server.ServerCore [Thread-12] Client Disconnected
+2018-03-21 22:02:24,826 INFO server.ServerCore [Thread-13] Client Disconnected
+2018-03-21 22:04:23,993 INFO server.ServerCore [Thread-14] Client Disconnected
+2018-03-21 22:09:42,726 ERROR server.ServerCore [Thread-15] users.Farmer cannot be cast to java.lang.String
+2018-03-21 22:09:42,726 INFO server.ServerCore [Thread-15] Client Disconnected
+2018-03-21 22:15:12,053 INFO server.ServerCore [Thread-16] Client Disconnected
+2018-03-22 12:08:15,772 ERROR server.ServerCore [Thread-17] users.Farmer cannot be cast to java.lang.String
+2018-03-22 12:08:15,802 INFO server.ServerCore [Thread-17] Client Disconnected
+2018-03-22 12:10:37,081 ERROR server.ServerCore [Thread-1] users.Farmer cannot be cast to java.lang.String
+2018-03-22 12:10:37,098 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-24 08:29:57,728 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-24 09:17:19,503 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-24 09:20:26,794 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-24 09:22:41,081 ERROR server.ServerCore [Thread-2] java.lang.String cannot be cast to users.Person
+2018-03-24 09:22:41,082 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-24 10:41:25,639 ERROR server.ServerCore [Thread-1] users.Farmer cannot be cast to java.lang.String
+2018-03-24 10:41:25,677 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-24 11:53:09,692 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-24 11:56:03,412 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-24 12:07:58,517 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-24 12:11:09,831 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-24 12:13:36,171 INFO server.ServerCore [Thread-5] Client Disconnected
+2018-03-24 12:14:59,288 INFO server.ServerCore [Thread-6] Client Disconnected
+2018-03-24 12:15:47,015 INFO server.ServerCore [Thread-7] Client Disconnected
+2018-03-24 12:19:53,536 INFO server.ServerCore [Thread-8] Client Disconnected
+2018-03-24 12:22:33,095 INFO server.ServerCore [Thread-9] Client Disconnected
+2018-03-24 12:31:17,777 INFO server.ServerCore [Thread-10] Client Disconnected
+2018-03-24 12:43:58,958 INFO server.ServerCore [Thread-11] Client Disconnected
+2018-03-24 12:45:08,993 INFO server.ServerCore [Thread-12] Client Disconnected
+2018-03-24 12:55:02,458 INFO server.ServerCore [Thread-13] Client Disconnected
+2018-03-24 12:56:21,119 INFO server.ServerCore [Thread-14] Client Disconnected
+2018-03-24 12:57:09,453 INFO server.ServerCore [Thread-15] Client Disconnected
+2018-03-24 12:58:09,066 INFO server.ServerCore [Thread-16] Client Disconnected
+2018-03-24 13:01:09,094 INFO server.ServerCore [Thread-17] Client Disconnected
+2018-03-24 13:03:03,180 INFO server.ServerCore [Thread-18] Client Disconnected
+2018-03-24 13:06:23,645 INFO server.ServerCore [Thread-19] Client Disconnected
+2018-03-24 13:09:33,204 INFO server.ServerCore [Thread-20] Client Disconnected
+2018-03-24 13:13:01,397 INFO server.ServerCore [Thread-21] Client Disconnected
+2018-03-24 13:14:16,484 INFO server.ServerCore [Thread-22] Client Disconnected
+2018-03-24 13:17:44,024 INFO server.ServerCore [Thread-23] Client Disconnected
+2018-03-24 13:19:13,359 INFO server.ServerCore [Thread-24] Client Disconnected
+2018-03-24 13:23:40,230 INFO server.ServerCore [Thread-25] Client Disconnected
+2018-03-24 13:31:20,027 INFO server.ServerCore [Thread-26] Client Disconnected
+2018-03-24 13:34:15,829 INFO server.ServerCore [Thread-27] Client Disconnected
+2018-03-24 13:35:25,147 INFO server.ServerCore [Thread-28] Client Disconnected
+2018-03-24 13:36:21,207 INFO server.ServerCore [Thread-29] Client Disconnected
+2018-03-24 13:37:07,571 INFO server.ServerCore [Thread-30] Client Disconnected
+2018-03-24 13:43:46,583 INFO server.ServerCore [Thread-31] Client Disconnected
+2018-03-24 13:45:31,168 INFO server.ServerCore [Thread-32] Client Disconnected
+2018-03-24 18:08:14,274 INFO server.ServerCore [Thread-33] Client Disconnected
+2018-03-24 18:17:38,829 INFO server.ServerCore [Thread-34] Client Disconnected
+2018-03-24 18:21:46,455 INFO server.ServerCore [Thread-35] Client Disconnected
+2018-03-24 18:27:46,276 INFO server.ServerCore [Thread-36] Client Disconnected
+2018-03-24 18:29:00,295 INFO server.ServerCore [Thread-37] Client Disconnected
+2018-03-24 18:30:13,526 INFO server.ServerCore [Thread-38] Client Disconnected
+2018-03-24 18:38:54,764 INFO server.ServerCore [Thread-39] Client Disconnected
+2018-03-24 18:42:29,986 INFO server.ServerCore [Thread-40] Client Disconnected
+2018-03-24 18:47:12,486 INFO server.ServerCore [Thread-41] Client Disconnected
+2018-03-24 18:48:01,959 INFO server.ServerCore [Thread-42] Client Disconnected
+2018-03-24 18:50:34,391 INFO server.ServerCore [Thread-43] Client Disconnected
+2018-03-24 18:58:50,518 INFO server.ServerCore [Thread-44] Client Disconnected
+2018-03-24 18:59:24,351 INFO server.ServerCore [Thread-45] Client Disconnected
+2018-03-24 19:00:28,258 INFO server.ServerCore [Thread-46] Client Disconnected
+2018-03-24 19:01:16,658 INFO server.ServerCore [Thread-47] Client Disconnected
+2018-03-24 19:02:14,798 INFO server.ServerCore [Thread-48] Client Disconnected
+2018-03-24 19:07:36,072 INFO server.ServerCore [Thread-49] Client Disconnected
+2018-03-24 19:16:24,584 INFO server.ServerCore [Thread-50] Client Disconnected
+2018-03-24 19:17:54,072 INFO server.ServerCore [Thread-51] Client Disconnected
+2018-03-24 19:22:42,597 INFO server.ServerCore [Thread-52] Client Disconnected
+2018-03-24 19:24:35,071 INFO server.ServerCore [Thread-53] Client Disconnected
+2018-03-24 19:25:31,319 INFO server.ServerCore [Thread-54] Client Disconnected
+2018-03-24 22:55:48,857 INFO server.ServerCore [Thread-55] Client Disconnected
+2018-03-24 22:57:10,708 INFO server.ServerCore [Thread-56] Client Disconnected
+2018-03-24 23:02:31,756 INFO server.ServerCore [Thread-57] Client Disconnected
+2018-03-24 23:03:08,770 INFO server.ServerCore [Thread-58] Client Disconnected
+2018-03-24 23:04:51,765 INFO server.ServerCore [Thread-59] Client Disconnected
+2018-03-24 23:05:28,224 ERROR server.ServerCore [Thread-60] null
+2018-03-24 23:05:28,225 INFO server.ServerCore [Thread-60] Client Disconnected
+2018-03-24 23:06:59,148 ERROR server.ServerCore [Thread-61] null
+2018-03-24 23:06:59,149 INFO server.ServerCore [Thread-61] Client Disconnected
+2018-03-24 23:23:21,967 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-24 23:25:17,675 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-24 23:30:32,588 ERROR server.ServerCore [Thread-1] users.Customer cannot be cast to java.lang.String
+2018-03-24 23:30:32,589 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-25 07:46:04,071 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-25 07:47:07,971 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-25 07:49:01,051 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-25 07:50:47,053 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-25 07:59:07,991 INFO server.ServerCore [Thread-5] Client Disconnected
+2018-03-25 08:02:32,429 INFO server.ServerCore [Thread-6] Client Disconnected
+2018-03-25 08:04:31,987 INFO server.ServerCore [Thread-7] Client Disconnected
+2018-03-25 08:11:13,512 INFO server.ServerCore [Thread-8] Client Disconnected
+2018-03-25 08:18:43,864 INFO server.ServerCore [Thread-9] Client Disconnected
+2018-03-25 08:20:33,686 INFO server.ServerCore [Thread-10] Client Disconnected
+2018-03-25 08:26:08,551 INFO server.ServerCore [Thread-11] Client Disconnected
+2018-03-25 08:28:22,048 INFO server.ServerCore [Thread-12] Client Disconnected
+2018-03-25 08:29:51,931 INFO server.ServerCore [Thread-13] Client Disconnected
+2018-03-25 08:31:15,118 INFO server.ServerCore [Thread-14] Client Disconnected
+2018-03-25 08:46:02,213 INFO server.ServerCore [Thread-15] Client Disconnected
+2018-03-25 08:51:56,197 INFO server.ServerCore [Thread-16] Client Disconnected
+2018-03-25 08:55:07,539 INFO server.ServerCore [Thread-17] Client Disconnected
+2018-03-25 08:56:27,800 INFO server.ServerCore [Thread-18] Client Disconnected
+2018-03-25 08:57:23,172 INFO server.ServerCore [Thread-19] Client Disconnected
+2018-03-25 08:59:37,338 INFO server.ServerCore [Thread-20] Client Disconnected
+2018-03-25 09:00:19,615 INFO server.ServerCore [Thread-21] Client Disconnected
+2018-03-25 09:01:09,614 INFO server.ServerCore [Thread-22] Client Disconnected
+2018-03-25 09:06:52,323 INFO server.ServerCore [Thread-23] Client Disconnected
+2018-03-25 09:09:27,234 INFO server.ServerCore [Thread-24] Client Disconnected
+2018-03-25 09:10:33,560 INFO server.ServerCore [Thread-25] Client Disconnected
+2018-03-25 09:23:29,445 INFO server.ServerCore [Thread-26] Client Disconnected
+2018-03-25 09:27:05,303 INFO server.ServerCore [Thread-27] Client Disconnected
+2018-03-25 09:28:38,173 INFO server.ServerCore [Thread-28] Client Disconnected
+2018-03-25 09:30:13,848 INFO server.ServerCore [Thread-29] Client Disconnected
+2018-03-25 09:31:01,264 INFO server.ServerCore [Thread-30] Client Disconnected
+2018-03-25 09:33:27,652 INFO server.ServerCore [Thread-31] Client Disconnected
+2018-03-25 09:38:17,322 INFO server.ServerCore [Thread-32] Client Disconnected
+2018-03-25 09:40:59,644 INFO server.ServerCore [Thread-33] Client Disconnected
+2018-03-25 09:45:26,436 INFO server.ServerCore [Thread-34] Client Disconnected
+2018-03-25 09:49:03,740 INFO server.ServerCore [Thread-35] Client Disconnected
+2018-03-25 09:54:59,345 INFO server.ServerCore [Thread-36] Client Disconnected
+2018-03-25 09:58:24,209 INFO server.ServerCore [Thread-37] Client Disconnected
+2018-03-25 10:00:26,098 INFO server.ServerCore [Thread-38] Client Disconnected
+2018-03-25 11:12:04,816 ERROR server.ServerCore [Thread-1] writing aborted; java.io.NotSerializableException: kart.Kart
+2018-03-25 11:12:04,849 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-25 11:14:16,558 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-25 11:18:03,599 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-25 11:32:43,964 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-25 11:43:57,067 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-25 11:50:15,897 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-25 11:54:24,489 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-25 11:55:26,523 ERROR server.ServerCore [Thread-4] kart.Kart cannot be cast to java.lang.String
+2018-03-25 11:55:26,525 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-25 11:56:25,182 ERROR server.ServerCore [Thread-5] kart.Kart cannot be cast to java.lang.String
+2018-03-25 11:56:25,187 INFO server.ServerCore [Thread-5] Client Disconnected
+2018-03-25 12:00:31,109 ERROR server.ServerCore [Thread-6] kart.Kart cannot be cast to java.lang.String
+2018-03-25 12:00:31,110 INFO server.ServerCore [Thread-6] Client Disconnected
+2018-03-25 12:01:56,247 ERROR server.ServerCore [Thread-7] kart.Kart cannot be cast to java.lang.String
+2018-03-25 12:01:56,250 INFO server.ServerCore [Thread-7] Client Disconnected
+2018-03-25 12:03:13,210 ERROR server.ServerCore [Thread-8] kart.Kart cannot be cast to java.lang.String
+2018-03-25 12:03:13,212 INFO server.ServerCore [Thread-8] Client Disconnected
+2018-03-25 12:04:48,728 ERROR server.ServerCore [Thread-9] kart.Kart cannot be cast to java.lang.String
+2018-03-25 12:04:48,730 INFO server.ServerCore [Thread-9] Client Disconnected
+2018-03-25 12:06:02,979 ERROR server.ServerCore [Thread-10] kart.Kart cannot be cast to java.lang.String
+2018-03-25 12:06:02,987 INFO server.ServerCore [Thread-10] Client Disconnected
+2018-03-25 12:07:39,183 ERROR server.ServerCore [Thread-11] kart.Kart cannot be cast to java.lang.String
+2018-03-25 12:07:39,189 INFO server.ServerCore [Thread-11] Client Disconnected
+2018-03-25 12:15:49,739 INFO server.ServerCore [Thread-12] Client Disconnected
+2018-03-25 12:17:02,005 ERROR server.ServerCore [Thread-13] kart.Kart cannot be cast to java.lang.String
+2018-03-25 12:17:02,027 INFO server.ServerCore [Thread-13] Client Disconnected
+2018-03-26 07:11:29,082 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-27 19:01:36,296 ERROR server.ServerCore [Thread-1] kart.Kart cannot be cast to java.lang.String
+2018-03-27 19:01:36,320 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-28 18:42:00,501 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-29 09:26:19,297 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-29 09:27:32,681 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-29 13:10:50,931 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-29 22:15:46,530 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-29 22:17:32,821 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-29 22:18:07,189 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-29 22:20:02,482 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-29 22:21:24,668 INFO server.ServerCore [Thread-5] Client Disconnected
+2018-03-29 22:33:33,542 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-29 22:40:14,566 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-29 22:41:19,422 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-29 22:44:40,528 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-29 23:05:36,345 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 10:39:05,882 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 10:39:55,414 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-30 10:41:49,515 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-30 10:42:21,234 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-30 10:43:05,877 INFO server.ServerCore [Thread-5] Client Disconnected
+2018-03-30 10:57:24,432 INFO server.ServerCore [Thread-6] Client Disconnected
+2018-03-30 10:57:52,189 INFO server.ServerCore [Thread-8] Client Disconnected
+2018-03-30 10:57:52,255 INFO server.ServerCore [Thread-7] Client Disconnected
+2018-03-30 11:09:17,856 INFO server.ServerCore [Thread-9] Client Disconnected
+2018-03-30 11:09:17,928 INFO server.ServerCore [Thread-10] Client Disconnected
+2018-03-30 11:13:29,761 INFO server.ServerCore [Thread-11] Client Disconnected
+2018-03-30 11:13:29,853 INFO server.ServerCore [Thread-12] Client Disconnected
+2018-03-30 11:22:15,636 INFO server.ServerCore [Thread-13] Client Disconnected
+2018-03-30 11:22:15,705 INFO server.ServerCore [Thread-14] Client Disconnected
+2018-03-30 11:26:02,199 INFO server.ServerCore [Thread-16] Client Disconnected
+2018-03-30 11:26:02,256 INFO server.ServerCore [Thread-15] Client Disconnected
+2018-03-30 11:29:17,624 INFO server.ServerCore [Thread-17] Client Disconnected
+2018-03-30 11:30:57,837 INFO server.ServerCore [Thread-18] Client Disconnected
+2018-03-30 11:32:56,308 INFO server.ServerCore [Thread-19] Client Disconnected
+2018-03-30 11:33:50,087 INFO server.ServerCore [Thread-20] Client Disconnected
+2018-03-30 11:34:14,590 INFO server.ServerCore [Thread-21] Client Disconnected
+2018-03-30 11:38:22,977 INFO server.ServerCore [Thread-22] Client Disconnected
+2018-03-30 11:38:23,048 INFO server.ServerCore [Thread-23] Client Disconnected
+2018-03-30 11:49:08,354 INFO server.ServerCore [Thread-24] Client Disconnected
+2018-03-30 11:50:19,394 INFO server.ServerCore [Thread-25] Client Disconnected
+2018-03-30 11:57:38,295 INFO server.ServerCore [Thread-26] Client Disconnected
+2018-03-30 11:58:33,879 INFO server.ServerCore [Thread-27] Client Disconnected
+2018-03-30 12:04:41,755 INFO server.ServerCore [Thread-28] Client Disconnected
+2018-03-30 12:06:51,461 INFO server.ServerCore [Thread-29] Client Disconnected
+2018-03-30 12:08:10,772 INFO server.ServerCore [Thread-30] Client Disconnected
+2018-03-30 12:08:54,258 INFO server.ServerCore [Thread-31] Client Disconnected
+2018-03-30 12:10:42,071 INFO server.ServerCore [Thread-32] Client Disconnected
+2018-03-30 12:21:47,230 INFO server.ServerCore [Thread-33] Client Disconnected
+2018-03-30 12:50:37,611 INFO server.ServerCore [Thread-34] Client Disconnected
+2018-03-30 12:56:00,896 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 12:56:46,621 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-30 13:14:55,902 ERROR server.ServerCore [Thread-1] org.hibernate.exception.GenericJDBCException: could not prepare statement
+2018-03-30 13:14:55,903 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 13:24:32,468 ERROR server.ServerCore [Thread-1] org.hibernate.exception.GenericJDBCException: could not prepare statement
+2018-03-30 13:24:32,470 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 13:29:39,589 ERROR server.ServerCore [Thread-1] org.hibernate.exception.GenericJDBCException: could not prepare statement
+2018-03-30 13:29:39,618 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 13:43:38,729 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 13:46:11,676 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-30 13:47:48,311 ERROR server.ServerCore [Thread-3] kart.Kart; local class incompatible: stream classdesc serialVersionUID = 840684418832770416, local class serialVersionUID = -5271731488498603265
+2018-03-30 13:47:48,312 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-30 14:07:54,866 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 14:36:54,101 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 14:40:05,122 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 14:41:07,911 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-30 14:41:48,937 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-30 14:42:43,036 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-30 14:44:46,688 INFO server.ServerCore [Thread-5] Client Disconnected
+2018-03-30 14:48:36,001 INFO server.ServerCore [Thread-6] Client Disconnected
+2018-03-30 14:49:17,876 INFO server.ServerCore [Thread-7] Client Disconnected
+2018-03-30 14:53:42,153 INFO server.ServerCore [Thread-8] Client Disconnected
+2018-03-30 18:20:46,493 ERROR server.ServerCore [Thread-1] crops.Crop cannot be cast to users.Person
+2018-03-30 18:20:46,541 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 19:05:45,306 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-30 19:07:45,641 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-30 19:09:00,176 ERROR server.ServerCore [Thread-4] kart.Kart cannot be cast to java.lang.String
+2018-03-30 19:09:00,176 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-30 19:11:32,631 ERROR server.ServerCore [Thread-5] kart.Kart cannot be cast to java.lang.String
+2018-03-30 19:11:32,632 INFO server.ServerCore [Thread-5] Client Disconnected
+2018-03-30 19:14:10,966 ERROR server.ServerCore [Thread-1] kart.Kart cannot be cast to java.lang.String
+2018-03-30 19:14:10,998 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 19:16:14,255 ERROR server.ServerCore [Thread-1] kart.Kart cannot be cast to java.lang.String
+2018-03-30 19:16:14,256 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 19:23:49,233 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 19:25:00,762 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-30 19:28:41,763 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-30 20:04:13,722 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-30 20:11:41,249 INFO server.ServerCore [Thread-5] Client Disconnected
+2018-03-30 20:26:33,975 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 20:32:06,895 INFO server.ServerCore [Thread-2] Client Disconnected
+2018-03-30 20:46:13,980 ERROR server.ServerCore [Thread-1] Internal graphics not initialized yet
+2018-03-30 20:46:14,007 INFO server.ServerCore [Thread-1] Client Disconnected
+2018-03-30 20:57:27,567 INFO server.ServerCore [Thread-3] Client Disconnected
+2018-03-30 20:58:29,936 INFO server.ServerCore [Thread-4] Client Disconnected
+2018-03-30 21:07:21,317 INFO server.ServerCore [Thread-5] Client Disconnected
+2018-03-30 21:12:16,264 INFO server.ServerCore [Thread-6] Client Disconnected
+2018-03-30 21:18:15,277 INFO server.ServerCore [Thread-7] Client Disconnected
+2018-03-30 21:21:41,122 INFO server.ServerCore [Thread-8] Client Disconnected
+2018-03-30 21:23:19,908 INFO server.ServerCore [Thread-9] Client Disconnected
+2018-03-30 21:26:07,399 INFO server.ServerCore [Thread-10] Client Disconnected
